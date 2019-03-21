@@ -1,1 +1,2 @@
-# learning-git boo
+# learning-git boo 
+- [ ] I am Partner 1
