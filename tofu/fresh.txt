@@ -1,0 +1,1 @@
+新建fresh.txt测试git各项功能
